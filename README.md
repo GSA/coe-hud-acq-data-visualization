@@ -21,3 +21,6 @@ At the [U.S. Department of Housing and Urban Development](https://www.hud.gov/) 
 HUD has a need to create data visualizations that increase financial transparency and program effectiveness within HUD by connecting program, financial, and human capital information (e.g., salary and expenditure information). The team performing this work must create dashboards that provide the information HUD stakeholders need to incorporate in their data-driven decision making process with near-real time, mobile available, and access-controlled visualizations.
 
 This will be done based on the development of prototypes drawn from program requirements that will then be operationalized. Once operationalized, this team must also develop data documentation and training relevant to the dashboards created.
+
+## Other RFIs
+Please see the [main repository](https://github.com/GSA/coe-hud-acquisitions/) for information on all procurement related information to the HUD and CoE engagement.
