@@ -10,7 +10,7 @@
 
 ## How to respond to this RFQ
 
-This RFQ was posted to eBuy under XXXX. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-data-visualization/blob/master/RFQ-FaaS-ERM-IDE.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLScdTcdw10KVyXmo8rHJx3oo9IHxYXF4EK5wMMuvzTE7SC9nFQ/viewform?usp=sf_link) no later than *October 8, 2019 at noon, eastern*.
+This RFQ was posted to eBuy under XXXX. Should you have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-hud-acq-data-visualization/blob/master/RFQ-Data-Visualization-for-OCDO.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLScdTcdw10KVyXmo8rHJx3oo9IHxYXF4EK5wMMuvzTE7SC9nFQ/viewform?usp=sf_link) no later than *October 8, 2019 at noon, eastern*.
 
 Anyone interested in responding to this RFQ is encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well.
 
